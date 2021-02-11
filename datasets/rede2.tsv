@@ -1,0 +1,13 @@
+FROM	TO
+A	B
+A	C
+A	D
+B	C
+B	D
+C	D
+D	E
+E	F
+F	G
+G	H
+H	I
+F	I

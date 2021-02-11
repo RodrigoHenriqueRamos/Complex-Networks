@@ -1,0 +1,3632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="module" attr.type="int" for="node" id="module"/>
+    <key attr.name="commonName" attr.type="string" for="node" id="commonName"/>
+    <key attr.name="nodeToolTip" attr.type="string" for="node" id="nodeToolTip"/>
+    <key attr.name="nodeLabel" attr.type="string" for="node" id="nodeLabel"/>
+    <key attr.name="nodeType" attr.type="string" for="node" id="nodeType"/>
+    <key attr.name="SourceIds" attr.type="string" for="node" id="SourceIds"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="EDGE_TYPE" attr.type="string" for="edge" id="EDGE_TYPE"/>
+    <key attr.name="FI Annotation" attr.type="string" for="edge" id="FI Annotation"/>
+    <key attr.name="FI Direction" attr.type="string" for="edge" id="FI Direction"/>
+    <key attr.name="FI Score" attr.type="double" for="edge" id="FI Score"/>
+    <key attr.name="SourceIds" attr.type="string" for="edge" id="SourceIds"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="isReactomeFINetwork" attr.type="boolean" for="graph" id="isReactomeFINetwork"/>
+    <key attr.name="Reactome_FI_Network_Version" attr.type="string" for="graph" id="Reactome_FI_Network_Version"/>
+    <key attr.name="dataSetType" attr.type="string" for="graph" id="dataSetType"/>
+    <key attr.name="clustering_Type" attr.type="string" for="graph" id="clustering_Type"/>
+    <key attr.name="ReactomeNetworkType" attr.type="string" for="graph" id="ReactomeNetworkType"/>
+    <key attr.name="PathwayId" attr.type="long" for="graph" id="PathwayId"/>
+    <key attr.name="PathwayName" attr.type="string" for="graph" id="PathwayName"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <graph edgedefault="directed" id="FI Nework for Diagram of Keratinization">
+        <node id="3995">
+            <data key="SUID">3995</data>
+            <data key="shared name">KLK8</data>
+            <data key="name">KLK8</data>
+            <data key="selected">false</data>
+            <data key="commonName">KLK8</data>
+            <data key="nodeToolTip">KLK8</data>
+            <data key="nodeLabel">KLK8</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8850833,8850832,8850829</data>
+        </node>
+        <node id="3939">
+            <data key="SUID">3939</data>
+            <data key="shared name">KLK12</data>
+            <data key="name">KLK12</data>
+            <data key="selected">false</data>
+            <data key="commonName">KLK12</data>
+            <data key="nodeToolTip">KLK12</data>
+            <data key="nodeLabel">KLK12</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8850791,8850802</data>
+        </node>
+        <node id="3908">
+            <data key="SUID">3908</data>
+            <data key="shared name">PCSK6</data>
+            <data key="name">PCSK6</data>
+            <data key="selected">false</data>
+            <data key="commonName">PCSK6</data>
+            <data key="nodeToolTip">PCSK6</data>
+            <data key="nodeLabel">PCSK6</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8849785</data>
+        </node>
+        <node id="3864">
+            <data key="SUID">3864</data>
+            <data key="shared name">FURIN</data>
+            <data key="name">FURIN</data>
+            <data key="selected">false</data>
+            <data key="commonName">FURIN</data>
+            <data key="nodeToolTip">FURIN</data>
+            <data key="nodeLabel">FURIN</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8849785</data>
+        </node>
+        <node id="3862">
+            <data key="SUID">3862</data>
+            <data key="shared name">TGM5</data>
+            <data key="name">TGM5</data>
+            <data key="selected">false</data>
+            <data key="commonName">TGM5</data>
+            <data key="nodeToolTip">TGM5</data>
+            <data key="nodeLabel">TGM5</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814175</data>
+        </node>
+        <node id="3718">
+            <data key="SUID">3718</data>
+            <data key="shared name">SPINK5</data>
+            <data key="name">SPINK5</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPINK5</data>
+            <data key="nodeToolTip">SPINK5</data>
+            <data key="nodeLabel">SPINK5</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8849665,8849656</data>
+        </node>
+        <node id="3716">
+            <data key="SUID">3716</data>
+            <data key="shared name">SPINK9</data>
+            <data key="name">SPINK9</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPINK9</data>
+            <data key="nodeToolTip">SPINK9</data>
+            <data key="nodeLabel">SPINK9</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8850817,8850814</data>
+        </node>
+        <node id="3714">
+            <data key="SUID">3714</data>
+            <data key="shared name">ST14</data>
+            <data key="name">ST14</data>
+            <data key="selected">false</data>
+            <data key="commonName">ST14</data>
+            <data key="nodeToolTip">ST14</data>
+            <data key="nodeLabel">ST14</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8849785,8849787</data>
+        </node>
+        <node id="3662">
+            <data key="SUID">3662</data>
+            <data key="shared name">KAZN</data>
+            <data key="name">KAZN</data>
+            <data key="selected">false</data>
+            <data key="commonName">KAZN</data>
+            <data key="nodeToolTip">KAZN</data>
+            <data key="nodeLabel">KAZN</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814378,6814328</data>
+        </node>
+        <node id="3563">
+            <data key="SUID">3563</data>
+            <data key="shared name">KLK14</data>
+            <data key="name">KLK14</data>
+            <data key="selected">false</data>
+            <data key="commonName">KLK14</data>
+            <data key="nodeToolTip">KLK14</data>
+            <data key="nodeLabel">KLK14</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">5694595,8850790</data>
+        </node>
+        <node id="3493">
+            <data key="SUID">3493</data>
+            <data key="shared name">KLK5</data>
+            <data key="name">KLK5</data>
+            <data key="selected">false</data>
+            <data key="commonName">KLK5</data>
+            <data key="nodeToolTip">KLK5</data>
+            <data key="nodeLabel">KLK5</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8849836,8849839,8850817,8849629,8934797,8850796,8849656</data>
+        </node>
+        <node id="3272">
+            <data key="SUID">3272</data>
+            <data key="shared name">CAPNS1</data>
+            <data key="name">CAPNS1</data>
+            <data key="selected">false</data>
+            <data key="commonName">CAPNS1</data>
+            <data key="nodeToolTip">CAPNS1</data>
+            <data key="nodeLabel">CAPNS1</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8934797</data>
+        </node>
+        <node id="3269">
+            <data key="SUID">3269</data>
+            <data key="shared name">IVL</data>
+            <data key="name">IVL</data>
+            <data key="selected">false</data>
+            <data key="commonName">IVL</data>
+            <data key="nodeToolTip">IVL</data>
+            <data key="nodeLabel">IVL</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814746,6810837,6814278,6814723,6814763,6814177,6814275,8847742,6814285</data>
+        </node>
+        <node id="3234">
+            <data key="SUID">3234</data>
+            <data key="shared name">CELA2A</data>
+            <data key="name">CELA2A</data>
+            <data key="selected">false</data>
+            <data key="commonName">CELA2A</data>
+            <data key="nodeToolTip">CELA2A</data>
+            <data key="nodeLabel">CELA2A</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8849859,8934797,8849856,8849616</data>
+        </node>
+        <node id="3222">
+            <data key="SUID">3222</data>
+            <data key="shared name">SPINK6</data>
+            <data key="name">SPINK6</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPINK6</data>
+            <data key="nodeToolTip">SPINK6</data>
+            <data key="nodeLabel">SPINK6</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8850791,8850785,8850798,8850790,8850796</data>
+        </node>
+        <node id="3221">
+            <data key="SUID">3221</data>
+            <data key="shared name">KLK13</data>
+            <data key="name">KLK13</data>
+            <data key="selected">false</data>
+            <data key="commonName">KLK13</data>
+            <data key="nodeToolTip">KLK13</data>
+            <data key="nodeLabel">KLK13</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">2990873,8850785</data>
+        </node>
+        <node id="3207">
+            <data key="SUID">3207</data>
+            <data key="shared name">PI3</data>
+            <data key="name">PI3</data>
+            <data key="selected">false</data>
+            <data key="commonName">PI3</data>
+            <data key="nodeToolTip">PI3</data>
+            <data key="nodeLabel">PI3</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6814723,6814763,6814275,8847742,6814285,6814197</data>
+        </node>
+        <node id="3174">
+            <data key="SUID">3174</data>
+            <data key="shared name">JUP</data>
+            <data key="name">JUP</data>
+            <data key="selected">false</data>
+            <data key="commonName">JUP</data>
+            <data key="nodeToolTip">JUP</data>
+            <data key="nodeLabel">JUP</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3172">
+            <data key="SUID">3172</data>
+            <data key="shared name">CASP14</data>
+            <data key="name">CASP14</data>
+            <data key="selected">false</data>
+            <data key="commonName">CASP14</data>
+            <data key="nodeToolTip">CASP14</data>
+            <data key="nodeLabel">CASP14</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8934797,8847680</data>
+        </node>
+        <node id="3160">
+            <data key="SUID">3160</data>
+            <data key="shared name">PRSS8</data>
+            <data key="name">PRSS8</data>
+            <data key="selected">false</data>
+            <data key="commonName">PRSS8</data>
+            <data key="nodeToolTip">PRSS8</data>
+            <data key="nodeLabel">PRSS8</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8849785</data>
+        </node>
+        <node id="3081">
+            <data key="SUID">3081</data>
+            <data key="shared name">PERP</data>
+            <data key="name">PERP</data>
+            <data key="selected">false</data>
+            <data key="commonName">PERP</data>
+            <data key="nodeToolTip">PERP</data>
+            <data key="nodeLabel">PERP</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6800837,8848046</data>
+        </node>
+        <node id="3080">
+            <data key="SUID">3080</data>
+            <data key="shared name">DSC3</data>
+            <data key="name">DSC3</data>
+            <data key="selected">false</data>
+            <data key="commonName">DSC3</data>
+            <data key="nodeToolTip">DSC3</data>
+            <data key="nodeLabel">DSC3</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3078">
+            <data key="SUID">3078</data>
+            <data key="shared name">DSG4</data>
+            <data key="name">DSG4</data>
+            <data key="selected">false</data>
+            <data key="commonName">DSG4</data>
+            <data key="nodeToolTip">DSG4</data>
+            <data key="nodeLabel">DSG4</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3076">
+            <data key="SUID">3076</data>
+            <data key="shared name">DSG1</data>
+            <data key="name">DSG1</data>
+            <data key="selected">false</data>
+            <data key="commonName">DSG1</data>
+            <data key="nodeToolTip">DSG1</data>
+            <data key="nodeLabel">DSG1</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3074">
+            <data key="SUID">3074</data>
+            <data key="shared name">DSG2</data>
+            <data key="name">DSG2</data>
+            <data key="selected">false</data>
+            <data key="commonName">DSG2</data>
+            <data key="nodeToolTip">DSG2</data>
+            <data key="nodeLabel">DSG2</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3065">
+            <data key="SUID">3065</data>
+            <data key="shared name">CSTA</data>
+            <data key="name">CSTA</data>
+            <data key="selected">false</data>
+            <data key="commonName">CSTA</data>
+            <data key="nodeToolTip">CSTA</data>
+            <data key="nodeLabel">CSTA</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6814723,6814763,6814275,8847742,6814285,6814197</data>
+        </node>
+        <node id="3062">
+            <data key="SUID">3062</data>
+            <data key="shared name">TGM1</data>
+            <data key="name">TGM1</data>
+            <data key="selected">false</data>
+            <data key="commonName">TGM1</data>
+            <data key="nodeToolTip">TGM1</data>
+            <data key="nodeLabel">TGM1</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814746,6814278,6814723,6814763,6814177,6814275,8847742,6814285,6813756,6814175</data>
+        </node>
+        <node id="3047">
+            <data key="SUID">3047</data>
+            <data key="shared name">DSG3</data>
+            <data key="name">DSG3</data>
+            <data key="selected">false</data>
+            <data key="commonName">DSG3</data>
+            <data key="nodeToolTip">DSG3</data>
+            <data key="nodeLabel">DSG3</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3042">
+            <data key="SUID">3042</data>
+            <data key="shared name">PPL</data>
+            <data key="name">PPL</data>
+            <data key="selected">false</data>
+            <data key="commonName">PPL</data>
+            <data key="nodeToolTip">PPL</data>
+            <data key="nodeLabel">PPL</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814178,6814278,6814723,6814763,6814177,6814275,8847742,6814188,6814285,6814328,6810850</data>
+        </node>
+        <node id="3041">
+            <data key="SUID">3041</data>
+            <data key="shared name">EVPL</data>
+            <data key="name">EVPL</data>
+            <data key="selected">false</data>
+            <data key="commonName">EVPL</data>
+            <data key="nodeToolTip">EVPL</data>
+            <data key="nodeLabel">EVPL</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814178,6810853,6814278,6814723,6814763,6814177,6814275,8847742,6814188,6814285</data>
+        </node>
+        <node id="3019">
+            <data key="SUID">3019</data>
+            <data key="shared name">FLG</data>
+            <data key="name">FLG</data>
+            <data key="selected">false</data>
+            <data key="commonName">FLG</data>
+            <data key="nodeToolTip">FLG</data>
+            <data key="nodeLabel">FLG</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8849818,8942225,6810859</data>
+        </node>
+        <node id="3018">
+            <data key="SUID">3018</data>
+            <data key="shared name">CAPN1</data>
+            <data key="name">CAPN1</data>
+            <data key="selected">false</data>
+            <data key="commonName">CAPN1</data>
+            <data key="nodeToolTip">CAPN1</data>
+            <data key="nodeLabel">CAPN1</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">8934797</data>
+        </node>
+        <node id="3016">
+            <data key="SUID">3016</data>
+            <data key="shared name">PKP2</data>
+            <data key="name">PKP2</data>
+            <data key="selected">false</data>
+            <data key="commonName">PKP2</data>
+            <data key="nodeToolTip">PKP2</data>
+            <data key="nodeLabel">PKP2</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3014">
+            <data key="SUID">3014</data>
+            <data key="shared name">PKP3</data>
+            <data key="name">PKP3</data>
+            <data key="selected">false</data>
+            <data key="commonName">PKP3</data>
+            <data key="nodeToolTip">PKP3</data>
+            <data key="nodeLabel">PKP3</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3012">
+            <data key="SUID">3012</data>
+            <data key="shared name">PKP4</data>
+            <data key="name">PKP4</data>
+            <data key="selected">false</data>
+            <data key="commonName">PKP4</data>
+            <data key="nodeToolTip">PKP4</data>
+            <data key="nodeLabel">PKP4</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="3010">
+            <data key="SUID">3010</data>
+            <data key="shared name">SPRR2A</data>
+            <data key="name">SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR2A</data>
+            <data key="nodeToolTip">SPRR2A</data>
+            <data key="nodeLabel">SPRR2A</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="3007">
+            <data key="SUID">3007</data>
+            <data key="shared name">RPTN</data>
+            <data key="name">RPTN</data>
+            <data key="selected">false</data>
+            <data key="commonName">RPTN</data>
+            <data key="nodeToolTip">RPTN</data>
+            <data key="nodeLabel">RPTN</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6814723,6814763,6814275,8847742,6814285,6814197</data>
+        </node>
+        <node id="3006">
+            <data key="SUID">3006</data>
+            <data key="shared name">LCE1A</data>
+            <data key="name">LCE1A</data>
+            <data key="selected">false</data>
+            <data key="commonName">LCE1A</data>
+            <data key="nodeToolTip">LCE1A</data>
+            <data key="nodeLabel">LCE1A</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814763,6814261,6814275,8847742</data>
+        </node>
+        <node id="3004">
+            <data key="SUID">3004</data>
+            <data key="shared name">SPRR2B</data>
+            <data key="name">SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR2B</data>
+            <data key="nodeToolTip">SPRR2B</data>
+            <data key="nodeLabel">SPRR2B</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="3002">
+            <data key="SUID">3002</data>
+            <data key="shared name">SPRR3</data>
+            <data key="name">SPRR3</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR3</data>
+            <data key="nodeToolTip">SPRR3</data>
+            <data key="nodeLabel">SPRR3</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="2998">
+            <data key="SUID">2998</data>
+            <data key="shared name">SPRR2E</data>
+            <data key="name">SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR2E</data>
+            <data key="nodeToolTip">SPRR2E</data>
+            <data key="nodeLabel">SPRR2E</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="2996">
+            <data key="SUID">2996</data>
+            <data key="shared name">SPRR2F</data>
+            <data key="name">SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR2F</data>
+            <data key="nodeToolTip">SPRR2F</data>
+            <data key="nodeLabel">SPRR2F</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="2993">
+            <data key="SUID">2993</data>
+            <data key="shared name">SPRR2D</data>
+            <data key="name">SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR2D</data>
+            <data key="nodeToolTip">SPRR2D</data>
+            <data key="nodeLabel">SPRR2D</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="2991">
+            <data key="SUID">2991</data>
+            <data key="shared name">SPRR2G</data>
+            <data key="name">SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR2G</data>
+            <data key="nodeToolTip">SPRR2G</data>
+            <data key="nodeLabel">SPRR2G</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="2989">
+            <data key="SUID">2989</data>
+            <data key="shared name">PKP1</data>
+            <data key="name">PKP1</data>
+            <data key="selected">false</data>
+            <data key="commonName">PKP1</data>
+            <data key="nodeToolTip">PKP1</data>
+            <data key="nodeLabel">PKP1</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="2988">
+            <data key="SUID">2988</data>
+            <data key="shared name">DSC2</data>
+            <data key="name">DSC2</data>
+            <data key="selected">false</data>
+            <data key="commonName">DSC2</data>
+            <data key="nodeToolTip">DSC2</data>
+            <data key="nodeLabel">DSC2</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="2967">
+            <data key="SUID">2967</data>
+            <data key="shared name">DSP</data>
+            <data key="name">DSP</data>
+            <data key="selected">false</data>
+            <data key="commonName">DSP</data>
+            <data key="nodeToolTip">DSP</data>
+            <data key="nodeLabel">DSP</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="2966">
+            <data key="SUID">2966</data>
+            <data key="shared name">DSC1</data>
+            <data key="name">DSC1</data>
+            <data key="selected">false</data>
+            <data key="commonName">DSC1</data>
+            <data key="nodeToolTip">DSC1</data>
+            <data key="nodeLabel">DSC1</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814735,8942225,6814388,8848046</data>
+        </node>
+        <node id="2960">
+            <data key="SUID">2960</data>
+            <data key="shared name">TCHH</data>
+            <data key="name">TCHH</data>
+            <data key="selected">false</data>
+            <data key="commonName">TCHH</data>
+            <data key="nodeToolTip">TCHH</data>
+            <data key="nodeLabel">TCHH</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6814723,6814763,6814275,8847742,6814285,6814197</data>
+        </node>
+        <node id="2956">
+            <data key="SUID">2956</data>
+            <data key="shared name">LOR</data>
+            <data key="name">LOR</data>
+            <data key="selected">false</data>
+            <data key="commonName">LOR</data>
+            <data key="nodeToolTip">LOR</data>
+            <data key="nodeLabel">LOR</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6810848,6814278,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="2955">
+            <data key="SUID">2955</data>
+            <data key="shared name">CDSN</data>
+            <data key="name">CDSN</data>
+            <data key="selected">false</data>
+            <data key="commonName">CDSN</data>
+            <data key="nodeToolTip">CDSN</data>
+            <data key="nodeLabel">CDSN</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814723,6814763,6814275,8847742,6814395</data>
+        </node>
+        <node id="2951">
+            <data key="SUID">2951</data>
+            <data key="shared name">SPRR1A</data>
+            <data key="name">SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR1A</data>
+            <data key="nodeToolTip">SPRR1A</data>
+            <data key="nodeLabel">SPRR1A</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="2939">
+            <data key="SUID">2939</data>
+            <data key="shared name">SPRR1B</data>
+            <data key="name">SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="commonName">SPRR1B</data>
+            <data key="nodeToolTip">SPRR1B</data>
+            <data key="nodeLabel">SPRR1B</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814278,6810840,6814723,6814763,6814275,8847742,6814285</data>
+        </node>
+        <node id="2938">
+            <data key="SUID">2938</data>
+            <data key="shared name">LCE3D</data>
+            <data key="name">LCE3D</data>
+            <data key="selected">false</data>
+            <data key="commonName">LCE3D</data>
+            <data key="nodeToolTip">LCE3D</data>
+            <data key="nodeLabel">LCE3D</data>
+            <data key="nodeType">Gene</data>
+            <data key="SourceIds">6814763,6814261,6814275,8847742</data>
+        </node>
+        <edge source="3939" target="3222">
+            <data key="SUID">3940</data>
+            <data key="shared name">KLK12 (FI) SPINK6</data>
+            <data key="name">KLK12 (FI) SPINK6</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8850791,8850786</data>
+        </edge>
+        <edge source="3662" target="3042">
+            <data key="SUID">3663</data>
+            <data key="shared name">KAZN (FI) PPL</data>
+            <data key="name">KAZN (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814374,6814328</data>
+        </edge>
+        <edge source="3563" target="3222">
+            <data key="SUID">3564</data>
+            <data key="shared name">KLK14 (FI) SPINK6</data>
+            <data key="name">KLK14 (FI) SPINK6</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8850790,8850777</data>
+        </edge>
+        <edge source="3493" target="3995">
+            <data key="SUID">3996</data>
+            <data key="shared name">KLK5 (FI) KLK8</data>
+            <data key="name">KLK5 (FI) KLK8</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">8850831</data>
+        </edge>
+        <edge source="3493" target="3222">
+            <data key="SUID">3720</data>
+            <data key="shared name">KLK5 (FI) SPINK6</data>
+            <data key="name">KLK5 (FI) SPINK6</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8850796,8850794</data>
+        </edge>
+        <edge source="3493" target="3718">
+            <data key="SUID">3719</data>
+            <data key="shared name">KLK5 (FI) SPINK5</data>
+            <data key="name">KLK5 (FI) SPINK5</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8849646,8849656</data>
+        </edge>
+        <edge source="3493" target="3716">
+            <data key="SUID">3717</data>
+            <data key="shared name">KLK5 (FI) SPINK9</data>
+            <data key="name">KLK5 (FI) SPINK9</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8850818,8850817</data>
+        </edge>
+        <edge source="3493" target="3714">
+            <data key="SUID">3715</data>
+            <data key="shared name">KLK5 (FI) ST14</data>
+            <data key="name">KLK5 (FI) ST14</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">8849826</data>
+        </edge>
+        <edge source="3272" target="3019">
+            <data key="SUID">3273</data>
+            <data key="shared name">CAPNS1 (FI) FLG</data>
+            <data key="name">CAPNS1 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">8934819</data>
+        </edge>
+        <edge source="3269" target="3062">
+            <data key="SUID">4046</data>
+            <data key="shared name">IVL (FI) TGM1</data>
+            <data key="name">IVL (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by; complex; input</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6810899,6814177,8847742,6810894,6814285,6814763,6814746</data>
+        </edge>
+        <edge source="3269" target="3862">
+            <data key="SUID">4044</data>
+            <data key="shared name">IVL (FI) TGM5</data>
+            <data key="name">IVL (FI) TGM5</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">6810894</data>
+        </edge>
+        <edge source="3269" target="2956">
+            <data key="SUID">4029</data>
+            <data key="shared name">IVL (FI) LOR</data>
+            <data key="name">IVL (FI) LOR</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="2960">
+            <data key="SUID">4010</data>
+            <data key="shared name">IVL (FI) TCHH</data>
+            <data key="name">IVL (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="3042">
+            <data key="SUID">3920</data>
+            <data key="shared name">IVL (FI) PPL</data>
+            <data key="name">IVL (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6814177,8847742,6810894,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="3007">
+            <data key="SUID">3785</data>
+            <data key="shared name">IVL (FI) RPTN</data>
+            <data key="name">IVL (FI) RPTN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="3207">
+            <data key="SUID">3759</data>
+            <data key="shared name">IVL (FI) PI3</data>
+            <data key="name">IVL (FI) PI3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="2991">
+            <data key="SUID">3681</data>
+            <data key="shared name">IVL (FI) SPRR2G</data>
+            <data key="name">IVL (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="2996">
+            <data key="SUID">3680</data>
+            <data key="shared name">IVL (FI) SPRR2F</data>
+            <data key="name">IVL (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="2998">
+            <data key="SUID">3678</data>
+            <data key="shared name">IVL (FI) SPRR2E</data>
+            <data key="name">IVL (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="2993">
+            <data key="SUID">3677</data>
+            <data key="shared name">IVL (FI) SPRR2D</data>
+            <data key="name">IVL (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="3004">
+            <data key="SUID">3674</data>
+            <data key="shared name">IVL (FI) SPRR2B</data>
+            <data key="name">IVL (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="3010">
+            <data key="SUID">3672</data>
+            <data key="shared name">IVL (FI) SPRR2A</data>
+            <data key="name">IVL (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="3002">
+            <data key="SUID">3531</data>
+            <data key="shared name">IVL (FI) SPRR3</data>
+            <data key="name">IVL (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="2939">
+            <data key="SUID">3437</data>
+            <data key="shared name">IVL (FI) SPRR1B</data>
+            <data key="name">IVL (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="2951">
+            <data key="SUID">3434</data>
+            <data key="shared name">IVL (FI) SPRR1A</data>
+            <data key="name">IVL (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3269" target="2938">
+            <data key="SUID">3391</data>
+            <data key="shared name">IVL (FI) LCE3D</data>
+            <data key="name">IVL (FI) LCE3D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3269" target="3006">
+            <data key="SUID">3336</data>
+            <data key="shared name">IVL (FI) LCE1A</data>
+            <data key="name">IVL (FI) LCE1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3234" target="3493">
+            <data key="SUID">3494</data>
+            <data key="shared name">CELA2A (FI) KLK5</data>
+            <data key="name">CELA2A (FI) KLK5</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">8849857</data>
+        </edge>
+        <edge source="3234" target="3019">
+            <data key="SUID">3235</data>
+            <data key="shared name">CELA2A (FI) FLG</data>
+            <data key="name">CELA2A (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">8934819</data>
+        </edge>
+        <edge source="3221" target="3222">
+            <data key="SUID">3223</data>
+            <data key="shared name">KLK13 (FI) SPINK6</data>
+            <data key="name">KLK13 (FI) SPINK6</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8850785,8850797</data>
+        </edge>
+        <edge source="3207" target="2996">
+            <data key="SUID">3812</data>
+            <data key="shared name">PI3 (FI) SPRR2F</data>
+            <data key="name">PI3 (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="2991">
+            <data key="SUID">3811</data>
+            <data key="shared name">PI3 (FI) SPRR2G</data>
+            <data key="name">PI3 (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="3004">
+            <data key="SUID">3790</data>
+            <data key="shared name">PI3 (FI) SPRR2B</data>
+            <data key="name">PI3 (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="2993">
+            <data key="SUID">3788</data>
+            <data key="shared name">PI3 (FI) SPRR2D</data>
+            <data key="name">PI3 (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="2998">
+            <data key="SUID">3787</data>
+            <data key="shared name">PI3 (FI) SPRR2E</data>
+            <data key="name">PI3 (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="3010">
+            <data key="SUID">3783</data>
+            <data key="shared name">PI3 (FI) SPRR2A</data>
+            <data key="name">PI3 (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="2951">
+            <data key="SUID">3547</data>
+            <data key="shared name">PI3 (FI) SPRR1A</data>
+            <data key="name">PI3 (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="2939">
+            <data key="SUID">3545</data>
+            <data key="shared name">PI3 (FI) SPRR1B</data>
+            <data key="name">PI3 (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="3002">
+            <data key="SUID">3495</data>
+            <data key="shared name">PI3 (FI) SPRR3</data>
+            <data key="name">PI3 (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="3042">
+            <data key="SUID">3400</data>
+            <data key="shared name">PI3 (FI) PPL</data>
+            <data key="name">PI3 (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3207" target="3062">
+            <data key="SUID">3293</data>
+            <data key="shared name">PI3 (FI) TGM1</data>
+            <data key="name">PI3 (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3174" target="3081">
+            <data key="SUID">3791</data>
+            <data key="shared name">JUP (FI) PERP</data>
+            <data key="name">JUP (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3174" target="3012">
+            <data key="SUID">3520</data>
+            <data key="shared name">JUP (FI) PKP4</data>
+            <data key="name">JUP (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3174" target="3014">
+            <data key="SUID">3519</data>
+            <data key="shared name">JUP (FI) PKP3</data>
+            <data key="name">JUP (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3174" target="3016">
+            <data key="SUID">3517</data>
+            <data key="shared name">JUP (FI) PKP2</data>
+            <data key="name">JUP (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3174" target="2989">
+            <data key="SUID">3516</data>
+            <data key="shared name">JUP (FI) PKP1</data>
+            <data key="name">JUP (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3172" target="3002">
+            <data key="SUID">4052</data>
+            <data key="shared name">CASP14 (FI) SPRR3</data>
+            <data key="name">CASP14 (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2956">
+            <data key="SUID">4002</data>
+            <data key="shared name">CASP14 (FI) LOR</data>
+            <data key="name">CASP14 (FI) LOR</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3065">
+            <data key="SUID">3988</data>
+            <data key="shared name">CASP14 (FI) CSTA</data>
+            <data key="name">CASP14 (FI) CSTA</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2955">
+            <data key="SUID">3897</data>
+            <data key="shared name">CASP14 (FI) CDSN</data>
+            <data key="name">CASP14 (FI) CDSN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3019">
+            <data key="SUID">3871</data>
+            <data key="shared name">CASP14 (FI) FLG</data>
+            <data key="name">CASP14 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">8934819</data>
+        </edge>
+        <edge source="3172" target="3207">
+            <data key="SUID">3733</data>
+            <data key="shared name">CASP14 (FI) PI3</data>
+            <data key="name">CASP14 (FI) PI3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3007">
+            <data key="SUID">3544</data>
+            <data key="shared name">CASP14 (FI) RPTN</data>
+            <data key="name">CASP14 (FI) RPTN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3042">
+            <data key="SUID">3542</data>
+            <data key="shared name">CASP14 (FI) PPL</data>
+            <data key="name">CASP14 (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2960">
+            <data key="SUID">3521</data>
+            <data key="shared name">CASP14 (FI) TCHH</data>
+            <data key="name">CASP14 (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3010">
+            <data key="SUID">3513</data>
+            <data key="shared name">CASP14 (FI) SPRR2A</data>
+            <data key="name">CASP14 (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2993">
+            <data key="SUID">3512</data>
+            <data key="shared name">CASP14 (FI) SPRR2D</data>
+            <data key="name">CASP14 (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2998">
+            <data key="SUID">3511</data>
+            <data key="shared name">CASP14 (FI) SPRR2E</data>
+            <data key="name">CASP14 (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3004">
+            <data key="SUID">3510</data>
+            <data key="shared name">CASP14 (FI) SPRR2B</data>
+            <data key="name">CASP14 (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2996">
+            <data key="SUID">3509</data>
+            <data key="shared name">CASP14 (FI) SPRR2F</data>
+            <data key="name">CASP14 (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2991">
+            <data key="SUID">3508</data>
+            <data key="shared name">CASP14 (FI) SPRR2G</data>
+            <data key="name">CASP14 (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2951">
+            <data key="SUID">3506</data>
+            <data key="shared name">CASP14 (FI) SPRR1A</data>
+            <data key="name">CASP14 (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2939">
+            <data key="SUID">3505</data>
+            <data key="shared name">CASP14 (FI) SPRR1B</data>
+            <data key="name">CASP14 (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3269">
+            <data key="SUID">3409</data>
+            <data key="shared name">CASP14 (FI) IVL</data>
+            <data key="name">CASP14 (FI) IVL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3041">
+            <data key="SUID">3341</data>
+            <data key="shared name">CASP14 (FI) EVPL</data>
+            <data key="name">CASP14 (FI) EVPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3062">
+            <data key="SUID">3340</data>
+            <data key="shared name">CASP14 (FI) TGM1</data>
+            <data key="name">CASP14 (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="3006">
+            <data key="SUID">3203</data>
+            <data key="shared name">CASP14 (FI) LCE1A</data>
+            <data key="name">CASP14 (FI) LCE1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3172" target="2938">
+            <data key="SUID">3173</data>
+            <data key="shared name">CASP14 (FI) LCE3D</data>
+            <data key="name">CASP14 (FI) LCE3D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">6814387</data>
+        </edge>
+        <edge source="3081" target="3012">
+            <data key="SUID">3907</data>
+            <data key="shared name">PERP (FI) PKP4</data>
+            <data key="name">PERP (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3081" target="3014">
+            <data key="SUID">3906</data>
+            <data key="shared name">PERP (FI) PKP3</data>
+            <data key="name">PERP (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3081" target="3016">
+            <data key="SUID">3905</data>
+            <data key="shared name">PERP (FI) PKP2</data>
+            <data key="name">PERP (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3081" target="2989">
+            <data key="SUID">3904</data>
+            <data key="shared name">PERP (FI) PKP1</data>
+            <data key="name">PERP (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3080" target="3076">
+            <data key="SUID">4040</data>
+            <data key="shared name">DSC3 (FI) DSG1</data>
+            <data key="name">DSC3 (FI) DSG1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3047">
+            <data key="SUID">4039</data>
+            <data key="shared name">DSC3 (FI) DSG3</data>
+            <data key="name">DSC3 (FI) DSG3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3074">
+            <data key="SUID">4038</data>
+            <data key="shared name">DSC3 (FI) DSG2</data>
+            <data key="name">DSC3 (FI) DSG2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3078">
+            <data key="SUID">4037</data>
+            <data key="shared name">DSC3 (FI) DSG4</data>
+            <data key="name">DSC3 (FI) DSG4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3016">
+            <data key="SUID">3992</data>
+            <data key="shared name">DSC3 (FI) PKP2</data>
+            <data key="name">DSC3 (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="2989">
+            <data key="SUID">3991</data>
+            <data key="shared name">DSC3 (FI) PKP1</data>
+            <data key="name">DSC3 (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3012">
+            <data key="SUID">3990</data>
+            <data key="shared name">DSC3 (FI) PKP4</data>
+            <data key="name">DSC3 (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3014">
+            <data key="SUID">3989</data>
+            <data key="shared name">DSC3 (FI) PKP3</data>
+            <data key="name">DSC3 (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3174">
+            <data key="SUID">3417</data>
+            <data key="shared name">DSC3 (FI) JUP</data>
+            <data key="name">DSC3 (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3019">
+            <data key="SUID">3403</data>
+            <data key="shared name">DSC3 (FI) FLG</data>
+            <data key="name">DSC3 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3080" target="2967">
+            <data key="SUID">3163</data>
+            <data key="shared name">DSC3 (FI) DSP</data>
+            <data key="name">DSC3 (FI) DSP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3080" target="3081">
+            <data key="SUID">3082</data>
+            <data key="shared name">DSC3 (FI) PERP</data>
+            <data key="name">DSC3 (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3078" target="2967">
+            <data key="SUID">3984</data>
+            <data key="shared name">DSG4 (FI) DSP</data>
+            <data key="name">DSG4 (FI) DSP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3078" target="3081">
+            <data key="SUID">3464</data>
+            <data key="shared name">DSG4 (FI) PERP</data>
+            <data key="name">DSG4 (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3078" target="3012">
+            <data key="SUID">3283</data>
+            <data key="shared name">DSG4 (FI) PKP4</data>
+            <data key="name">DSG4 (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3078" target="3016">
+            <data key="SUID">3282</data>
+            <data key="shared name">DSG4 (FI) PKP2</data>
+            <data key="name">DSG4 (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3078" target="3014">
+            <data key="SUID">3281</data>
+            <data key="shared name">DSG4 (FI) PKP3</data>
+            <data key="name">DSG4 (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3078" target="2989">
+            <data key="SUID">3280</data>
+            <data key="shared name">DSG4 (FI) PKP1</data>
+            <data key="name">DSG4 (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3078" target="3019">
+            <data key="SUID">3187</data>
+            <data key="shared name">DSG4 (FI) FLG</data>
+            <data key="name">DSG4 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3078" target="3174">
+            <data key="SUID">3175</data>
+            <data key="shared name">DSG4 (FI) JUP</data>
+            <data key="name">DSG4 (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3076" target="3019">
+            <data key="SUID">3982</data>
+            <data key="shared name">DSG1 (FI) FLG</data>
+            <data key="name">DSG1 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3076" target="3174">
+            <data key="SUID">3934</data>
+            <data key="shared name">DSG1 (FI) JUP</data>
+            <data key="name">DSG1 (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3076" target="3081">
+            <data key="SUID">3615</data>
+            <data key="shared name">DSG1 (FI) PERP</data>
+            <data key="name">DSG1 (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3076" target="2967">
+            <data key="SUID">3538</data>
+            <data key="shared name">DSG1 (FI) DSP</data>
+            <data key="name">DSG1 (FI) DSP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3076" target="2989">
+            <data key="SUID">3433</data>
+            <data key="shared name">DSG1 (FI) PKP1</data>
+            <data key="name">DSG1 (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3076" target="3016">
+            <data key="SUID">3431</data>
+            <data key="shared name">DSG1 (FI) PKP2</data>
+            <data key="name">DSG1 (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3076" target="3014">
+            <data key="SUID">3428</data>
+            <data key="shared name">DSG1 (FI) PKP3</data>
+            <data key="name">DSG1 (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3076" target="3012">
+            <data key="SUID">3427</data>
+            <data key="shared name">DSG1 (FI) PKP4</data>
+            <data key="name">DSG1 (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3074" target="2967">
+            <data key="SUID">4060</data>
+            <data key="shared name">DSG2 (FI) DSP</data>
+            <data key="name">DSG2 (FI) DSP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3074" target="3081">
+            <data key="SUID">4000</data>
+            <data key="shared name">DSG2 (FI) PERP</data>
+            <data key="name">DSG2 (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3074" target="3019">
+            <data key="SUID">3888</data>
+            <data key="shared name">DSG2 (FI) FLG</data>
+            <data key="name">DSG2 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3074" target="3174">
+            <data key="SUID">3868</data>
+            <data key="shared name">DSG2 (FI) JUP</data>
+            <data key="name">DSG2 (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3074" target="3012">
+            <data key="SUID">3194</data>
+            <data key="shared name">DSG2 (FI) PKP4</data>
+            <data key="name">DSG2 (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3074" target="3014">
+            <data key="SUID">3193</data>
+            <data key="shared name">DSG2 (FI) PKP3</data>
+            <data key="name">DSG2 (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3074" target="3016">
+            <data key="SUID">3190</data>
+            <data key="shared name">DSG2 (FI) PKP2</data>
+            <data key="name">DSG2 (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3074" target="2989">
+            <data key="SUID">3186</data>
+            <data key="shared name">DSG2 (FI) PKP1</data>
+            <data key="name">DSG2 (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3065" target="3042">
+            <data key="SUID">4045</data>
+            <data key="shared name">CSTA (FI) PPL</data>
+            <data key="name">CSTA (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="2956">
+            <data key="SUID">4034</data>
+            <data key="shared name">CSTA (FI) LOR</data>
+            <data key="name">CSTA (FI) LOR</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="3041">
+            <data key="SUID">3870</data>
+            <data key="shared name">CSTA (FI) EVPL</data>
+            <data key="name">CSTA (FI) EVPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="3269">
+            <data key="SUID">3845</data>
+            <data key="shared name">CSTA (FI) IVL</data>
+            <data key="name">CSTA (FI) IVL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="3062">
+            <data key="SUID">3669</data>
+            <data key="shared name">CSTA (FI) TGM1</data>
+            <data key="name">CSTA (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="3002">
+            <data key="SUID">3658</data>
+            <data key="shared name">CSTA (FI) SPRR3</data>
+            <data key="name">CSTA (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="3006">
+            <data key="SUID">3360</data>
+            <data key="shared name">CSTA (FI) LCE1A</data>
+            <data key="name">CSTA (FI) LCE1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3065" target="2938">
+            <data key="SUID">3304</data>
+            <data key="shared name">CSTA (FI) LCE3D</data>
+            <data key="name">CSTA (FI) LCE3D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3065" target="2998">
+            <data key="SUID">3090</data>
+            <data key="shared name">CSTA (FI) SPRR2E</data>
+            <data key="name">CSTA (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="2996">
+            <data key="SUID">3089</data>
+            <data key="shared name">CSTA (FI) SPRR2F</data>
+            <data key="name">CSTA (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="2991">
+            <data key="SUID">3087</data>
+            <data key="shared name">CSTA (FI) SPRR2G</data>
+            <data key="name">CSTA (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="3010">
+            <data key="SUID">3086</data>
+            <data key="shared name">CSTA (FI) SPRR2A</data>
+            <data key="name">CSTA (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="3004">
+            <data key="SUID">3085</data>
+            <data key="shared name">CSTA (FI) SPRR2B</data>
+            <data key="name">CSTA (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="2993">
+            <data key="SUID">3084</data>
+            <data key="shared name">CSTA (FI) SPRR2D</data>
+            <data key="name">CSTA (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="2951">
+            <data key="SUID">3068</data>
+            <data key="shared name">CSTA (FI) SPRR1A</data>
+            <data key="name">CSTA (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3065" target="2939">
+            <data key="SUID">3066</data>
+            <data key="shared name">CSTA (FI) SPRR1B</data>
+            <data key="name">CSTA (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3062" target="3862">
+            <data key="SUID">3938</data>
+            <data key="shared name">TGM1 (FI) TGM5</data>
+            <data key="name">TGM1 (FI) TGM5</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">6810894</data>
+        </edge>
+        <edge source="3047" target="2967">
+            <data key="SUID">4032</data>
+            <data key="shared name">DSG3 (FI) DSP</data>
+            <data key="name">DSG3 (FI) DSP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3047" target="3081">
+            <data key="SUID">3917</data>
+            <data key="shared name">DSG3 (FI) PERP</data>
+            <data key="name">DSG3 (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="3047" target="3019">
+            <data key="SUID">3268</data>
+            <data key="shared name">DSG3 (FI) FLG</data>
+            <data key="name">DSG3 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3047" target="3174">
+            <data key="SUID">3243</data>
+            <data key="shared name">DSG3 (FI) JUP</data>
+            <data key="name">DSG3 (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3047" target="3016">
+            <data key="SUID">3051</data>
+            <data key="shared name">DSG3 (FI) PKP2</data>
+            <data key="name">DSG3 (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3047" target="2989">
+            <data key="SUID">3050</data>
+            <data key="shared name">DSG3 (FI) PKP1</data>
+            <data key="name">DSG3 (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3047" target="3012">
+            <data key="SUID">3049</data>
+            <data key="shared name">DSG3 (FI) PKP4</data>
+            <data key="name">DSG3 (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3047" target="3014">
+            <data key="SUID">3048</data>
+            <data key="shared name">DSG3 (FI) PKP3</data>
+            <data key="name">DSG3 (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="3042" target="3862">
+            <data key="SUID">4030</data>
+            <data key="shared name">PPL (FI) TGM5</data>
+            <data key="name">PPL (FI) TGM5</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">6810894</data>
+        </edge>
+        <edge source="3042" target="3062">
+            <data key="SUID">4020</data>
+            <data key="shared name">PPL (FI) TGM1</data>
+            <data key="name">PPL (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by; complex; input</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6814177,8847742,6810894,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="2951">
+            <data key="SUID">3596</data>
+            <data key="shared name">PPL (FI) SPRR1A</data>
+            <data key="name">PPL (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="2939">
+            <data key="SUID">3594</data>
+            <data key="shared name">PPL (FI) SPRR1B</data>
+            <data key="name">PPL (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="3010">
+            <data key="SUID">3581</data>
+            <data key="shared name">PPL (FI) SPRR2A</data>
+            <data key="name">PPL (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="3004">
+            <data key="SUID">3580</data>
+            <data key="shared name">PPL (FI) SPRR2B</data>
+            <data key="name">PPL (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="2993">
+            <data key="SUID">3579</data>
+            <data key="shared name">PPL (FI) SPRR2D</data>
+            <data key="name">PPL (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="2998">
+            <data key="SUID">3578</data>
+            <data key="shared name">PPL (FI) SPRR2E</data>
+            <data key="name">PPL (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="2996">
+            <data key="SUID">3577</data>
+            <data key="shared name">PPL (FI) SPRR2F</data>
+            <data key="name">PPL (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="2991">
+            <data key="SUID">3576</data>
+            <data key="shared name">PPL (FI) SPRR2G</data>
+            <data key="name">PPL (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="3002">
+            <data key="SUID">3214</data>
+            <data key="shared name">PPL (FI) SPRR3</data>
+            <data key="name">PPL (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="3007">
+            <data key="SUID">3197</data>
+            <data key="shared name">PPL (FI) RPTN</data>
+            <data key="name">PPL (FI) RPTN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3042" target="2960">
+            <data key="SUID">3115</data>
+            <data key="shared name">PPL (FI) TCHH</data>
+            <data key="name">PPL (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="2938">
+            <data key="SUID">4053</data>
+            <data key="shared name">EVPL (FI) LCE3D</data>
+            <data key="name">EVPL (FI) LCE3D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3041" target="3006">
+            <data key="SUID">4047</data>
+            <data key="shared name">EVPL (FI) LCE1A</data>
+            <data key="name">EVPL (FI) LCE1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3041" target="2960">
+            <data key="SUID">3955</data>
+            <data key="shared name">EVPL (FI) TCHH</data>
+            <data key="name">EVPL (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="2993">
+            <data key="SUID">3931</data>
+            <data key="shared name">EVPL (FI) SPRR2D</data>
+            <data key="name">EVPL (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="3004">
+            <data key="SUID">3928</data>
+            <data key="shared name">EVPL (FI) SPRR2B</data>
+            <data key="name">EVPL (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="3010">
+            <data key="SUID">3926</data>
+            <data key="shared name">EVPL (FI) SPRR2A</data>
+            <data key="name">EVPL (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="2991">
+            <data key="SUID">3923</data>
+            <data key="shared name">EVPL (FI) SPRR2G</data>
+            <data key="name">EVPL (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="2996">
+            <data key="SUID">3921</data>
+            <data key="shared name">EVPL (FI) SPRR2F</data>
+            <data key="name">EVPL (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="2998">
+            <data key="SUID">3919</data>
+            <data key="shared name">EVPL (FI) SPRR2E</data>
+            <data key="name">EVPL (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="2939">
+            <data key="SUID">3899</data>
+            <data key="shared name">EVPL (FI) SPRR1B</data>
+            <data key="name">EVPL (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="2951">
+            <data key="SUID">3896</data>
+            <data key="shared name">EVPL (FI) SPRR1A</data>
+            <data key="name">EVPL (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="3062">
+            <data key="SUID">3866</data>
+            <data key="shared name">EVPL (FI) TGM1</data>
+            <data key="name">EVPL (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by; complex; input</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6814177,8847742,6810894,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="3862">
+            <data key="SUID">3863</data>
+            <data key="shared name">EVPL (FI) TGM5</data>
+            <data key="name">EVPL (FI) TGM5</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">6810894</data>
+        </edge>
+        <edge source="3041" target="3007">
+            <data key="SUID">3533</data>
+            <data key="shared name">EVPL (FI) RPTN</data>
+            <data key="name">EVPL (FI) RPTN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="2956">
+            <data key="SUID">3507</data>
+            <data key="shared name">EVPL (FI) LOR</data>
+            <data key="name">EVPL (FI) LOR</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="3269">
+            <data key="SUID">3270</data>
+            <data key="shared name">EVPL (FI) IVL</data>
+            <data key="name">EVPL (FI) IVL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6814177,8847742,6810894,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="3207">
+            <data key="SUID">3208</data>
+            <data key="shared name">EVPL (FI) PI3</data>
+            <data key="name">EVPL (FI) PI3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="3002">
+            <data key="SUID">3176</data>
+            <data key="shared name">EVPL (FI) SPRR3</data>
+            <data key="name">EVPL (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3041" target="3042">
+            <data key="SUID">3043</data>
+            <data key="shared name">EVPL (FI) PPL</data>
+            <data key="name">EVPL (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6814178,6814177,8847742,6814285,6814188,6814763,6810843</data>
+        </edge>
+        <edge source="3019" target="3493">
+            <data key="SUID">4058</data>
+            <data key="shared name">FLG (FI) KLK5</data>
+            <data key="name">FLG (FI) KLK5</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">8934819</data>
+        </edge>
+        <edge source="3019" target="3908">
+            <data key="SUID">3909</data>
+            <data key="shared name">FLG (FI) PCSK6</data>
+            <data key="name">FLG (FI) PCSK6</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">8849797</data>
+        </edge>
+        <edge source="3019" target="3864">
+            <data key="SUID">3865</data>
+            <data key="shared name">FLG (FI) FURIN</data>
+            <data key="name">FLG (FI) FURIN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">8849797</data>
+        </edge>
+        <edge source="3019" target="3714">
+            <data key="SUID">3797</data>
+            <data key="shared name">FLG (FI) ST14</data>
+            <data key="name">FLG (FI) ST14</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">8849797</data>
+        </edge>
+        <edge source="3019" target="3174">
+            <data key="SUID">3528</data>
+            <data key="shared name">FLG (FI) JUP</data>
+            <data key="name">FLG (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3019" target="3160">
+            <data key="SUID">3161</data>
+            <data key="shared name">FLG (FI) PRSS8</data>
+            <data key="name">FLG (FI) PRSS8</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyzed by</data>
+            <data key="FI Direction">&lt;-</data>
+            <data key="SourceIds">8849797</data>
+        </edge>
+        <edge source="3019" target="3012">
+            <data key="SUID">3112</data>
+            <data key="shared name">FLG (FI) PKP4</data>
+            <data key="name">FLG (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3019" target="3014">
+            <data key="SUID">3111</data>
+            <data key="shared name">FLG (FI) PKP3</data>
+            <data key="name">FLG (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3019" target="3016">
+            <data key="SUID">3110</data>
+            <data key="shared name">FLG (FI) PKP2</data>
+            <data key="name">FLG (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3019" target="2989">
+            <data key="SUID">3109</data>
+            <data key="shared name">FLG (FI) PKP1</data>
+            <data key="name">FLG (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="3018" target="3019">
+            <data key="SUID">3020</data>
+            <data key="shared name">CAPN1 (FI) FLG</data>
+            <data key="name">CAPN1 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">catalyze</data>
+            <data key="FI Direction">-&gt;</data>
+            <data key="SourceIds">8934819</data>
+        </edge>
+        <edge source="3010" target="2960">
+            <data key="SUID">3522</data>
+            <data key="shared name">SPRR2A (FI) TCHH</data>
+            <data key="name">SPRR2A (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3010" target="3062">
+            <data key="SUID">3064</data>
+            <data key="shared name">SPRR2A (FI) TGM1</data>
+            <data key="name">SPRR2A (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="3004">
+            <data key="SUID">3987</data>
+            <data key="shared name">RPTN (FI) SPRR2B</data>
+            <data key="name">RPTN (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="3010">
+            <data key="SUID">3986</data>
+            <data key="shared name">RPTN (FI) SPRR2A</data>
+            <data key="name">RPTN (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="2939">
+            <data key="SUID">3969</data>
+            <data key="shared name">RPTN (FI) SPRR1B</data>
+            <data key="name">RPTN (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="2951">
+            <data key="SUID">3968</data>
+            <data key="shared name">RPTN (FI) SPRR1A</data>
+            <data key="name">RPTN (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="3002">
+            <data key="SUID">3874</data>
+            <data key="shared name">RPTN (FI) SPRR3</data>
+            <data key="name">RPTN (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="2991">
+            <data key="SUID">3858</data>
+            <data key="shared name">RPTN (FI) SPRR2G</data>
+            <data key="name">RPTN (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="2996">
+            <data key="SUID">3856</data>
+            <data key="shared name">RPTN (FI) SPRR2F</data>
+            <data key="name">RPTN (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="2998">
+            <data key="SUID">3854</data>
+            <data key="shared name">RPTN (FI) SPRR2E</data>
+            <data key="name">RPTN (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="2993">
+            <data key="SUID">3852</data>
+            <data key="shared name">RPTN (FI) SPRR2D</data>
+            <data key="name">RPTN (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3007" target="3062">
+            <data key="SUID">3171</data>
+            <data key="shared name">RPTN (FI) TGM1</data>
+            <data key="name">RPTN (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3006" target="3002">
+            <data key="SUID">4056</data>
+            <data key="shared name">LCE1A (FI) SPRR3</data>
+            <data key="name">LCE1A (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="2951">
+            <data key="SUID">3566</data>
+            <data key="shared name">LCE1A (FI) SPRR1A</data>
+            <data key="name">LCE1A (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="2939">
+            <data key="SUID">3565</data>
+            <data key="shared name">LCE1A (FI) SPRR1B</data>
+            <data key="name">LCE1A (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="2996">
+            <data key="SUID">3552</data>
+            <data key="shared name">LCE1A (FI) SPRR2F</data>
+            <data key="name">LCE1A (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="2991">
+            <data key="SUID">3551</data>
+            <data key="shared name">LCE1A (FI) SPRR2G</data>
+            <data key="name">LCE1A (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="2993">
+            <data key="SUID">3550</data>
+            <data key="shared name">LCE1A (FI) SPRR2D</data>
+            <data key="name">LCE1A (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="2998">
+            <data key="SUID">3549</data>
+            <data key="shared name">LCE1A (FI) SPRR2E</data>
+            <data key="name">LCE1A (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="3004">
+            <data key="SUID">3548</data>
+            <data key="shared name">LCE1A (FI) SPRR2B</data>
+            <data key="name">LCE1A (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="3010">
+            <data key="SUID">3546</data>
+            <data key="shared name">LCE1A (FI) SPRR2A</data>
+            <data key="name">LCE1A (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="3207">
+            <data key="SUID">3501</data>
+            <data key="shared name">LCE1A (FI) PI3</data>
+            <data key="name">LCE1A (FI) PI3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="2960">
+            <data key="SUID">3385</data>
+            <data key="shared name">LCE1A (FI) TCHH</data>
+            <data key="name">LCE1A (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="3042">
+            <data key="SUID">3367</data>
+            <data key="shared name">LCE1A (FI) PPL</data>
+            <data key="name">LCE1A (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="2956">
+            <data key="SUID">3339</data>
+            <data key="shared name">LCE1A (FI) LOR</data>
+            <data key="name">LCE1A (FI) LOR</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="3062">
+            <data key="SUID">3303</data>
+            <data key="shared name">LCE1A (FI) TGM1</data>
+            <data key="name">LCE1A (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3006" target="3007">
+            <data key="SUID">3008</data>
+            <data key="shared name">LCE1A (FI) RPTN</data>
+            <data key="name">LCE1A (FI) RPTN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="3004" target="2960">
+            <data key="SUID">3224</data>
+            <data key="shared name">SPRR2B (FI) TCHH</data>
+            <data key="name">SPRR2B (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3004" target="3062">
+            <data key="SUID">3164</data>
+            <data key="shared name">SPRR2B (FI) TGM1</data>
+            <data key="name">SPRR2B (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3002" target="3062">
+            <data key="SUID">3956</data>
+            <data key="shared name">SPRR3 (FI) TGM1</data>
+            <data key="name">SPRR3 (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="3002" target="2960">
+            <data key="SUID">3872</data>
+            <data key="shared name">SPRR3 (FI) TCHH</data>
+            <data key="name">SPRR3 (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2998" target="3062">
+            <data key="SUID">3626</data>
+            <data key="shared name">SPRR2E (FI) TGM1</data>
+            <data key="name">SPRR2E (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2998" target="2960">
+            <data key="SUID">3540</data>
+            <data key="shared name">SPRR2E (FI) TCHH</data>
+            <data key="name">SPRR2E (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2996" target="2960">
+            <data key="SUID">4018</data>
+            <data key="shared name">SPRR2F (FI) TCHH</data>
+            <data key="name">SPRR2F (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2996" target="3062">
+            <data key="SUID">3972</data>
+            <data key="shared name">SPRR2F (FI) TGM1</data>
+            <data key="name">SPRR2F (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2993" target="3062">
+            <data key="SUID">3779</data>
+            <data key="shared name">SPRR2D (FI) TGM1</data>
+            <data key="name">SPRR2D (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2993" target="2960">
+            <data key="SUID">3429</data>
+            <data key="shared name">SPRR2D (FI) TCHH</data>
+            <data key="name">SPRR2D (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2991" target="3062">
+            <data key="SUID">3903</data>
+            <data key="shared name">SPRR2G (FI) TGM1</data>
+            <data key="name">SPRR2G (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2991" target="2960">
+            <data key="SUID">3835</data>
+            <data key="shared name">SPRR2G (FI) TCHH</data>
+            <data key="name">SPRR2G (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2988" target="3081">
+            <data key="SUID">3922</data>
+            <data key="shared name">DSC2 (FI) PERP</data>
+            <data key="name">DSC2 (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="2988" target="3174">
+            <data key="SUID">3333</data>
+            <data key="shared name">DSC2 (FI) JUP</data>
+            <data key="name">DSC2 (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="3019">
+            <data key="SUID">3305</data>
+            <data key="shared name">DSC2 (FI) FLG</data>
+            <data key="name">DSC2 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="2988" target="3047">
+            <data key="SUID">3083</data>
+            <data key="shared name">DSC2 (FI) DSG3</data>
+            <data key="name">DSC2 (FI) DSG3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="3078">
+            <data key="SUID">3079</data>
+            <data key="shared name">DSC2 (FI) DSG4</data>
+            <data key="name">DSC2 (FI) DSG4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="3076">
+            <data key="SUID">3077</data>
+            <data key="shared name">DSC2 (FI) DSG1</data>
+            <data key="name">DSC2 (FI) DSG1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="3074">
+            <data key="SUID">3075</data>
+            <data key="shared name">DSC2 (FI) DSG2</data>
+            <data key="name">DSC2 (FI) DSG2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="2967">
+            <data key="SUID">3072</data>
+            <data key="shared name">DSC2 (FI) DSP</data>
+            <data key="name">DSC2 (FI) DSP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="3016">
+            <data key="SUID">3017</data>
+            <data key="shared name">DSC2 (FI) PKP2</data>
+            <data key="name">DSC2 (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="3014">
+            <data key="SUID">3015</data>
+            <data key="shared name">DSC2 (FI) PKP3</data>
+            <data key="name">DSC2 (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="3012">
+            <data key="SUID">3013</data>
+            <data key="shared name">DSC2 (FI) PKP4</data>
+            <data key="name">DSC2 (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2988" target="2989">
+            <data key="SUID">2990</data>
+            <data key="shared name">DSC2 (FI) PKP1</data>
+            <data key="name">DSC2 (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2967" target="3174">
+            <data key="SUID">4059</data>
+            <data key="shared name">DSP (FI) JUP</data>
+            <data key="name">DSP (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2967" target="3019">
+            <data key="SUID">4048</data>
+            <data key="shared name">DSP (FI) FLG</data>
+            <data key="name">DSP (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="2967" target="3081">
+            <data key="SUID">3983</data>
+            <data key="shared name">DSP (FI) PERP</data>
+            <data key="name">DSP (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="2967" target="3014">
+            <data key="SUID">3028</data>
+            <data key="shared name">DSP (FI) PKP3</data>
+            <data key="name">DSP (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2967" target="3012">
+            <data key="SUID">3026</data>
+            <data key="shared name">DSP (FI) PKP4</data>
+            <data key="name">DSP (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2967" target="2989">
+            <data key="SUID">3024</data>
+            <data key="shared name">DSP (FI) PKP1</data>
+            <data key="name">DSP (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2967" target="3016">
+            <data key="SUID">3022</data>
+            <data key="shared name">DSP (FI) PKP2</data>
+            <data key="name">DSP (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="3081">
+            <data key="SUID">3515</data>
+            <data key="shared name">DSC1 (FI) PERP</data>
+            <data key="name">DSC1 (FI) PERP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814695,8848046</data>
+        </edge>
+        <edge source="2966" target="3047">
+            <data key="SUID">3380</data>
+            <data key="shared name">DSC1 (FI) DSG3</data>
+            <data key="name">DSC1 (FI) DSG3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="3074">
+            <data key="SUID">3376</data>
+            <data key="shared name">DSC1 (FI) DSG2</data>
+            <data key="name">DSC1 (FI) DSG2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="3076">
+            <data key="SUID">3372</data>
+            <data key="shared name">DSC1 (FI) DSG1</data>
+            <data key="name">DSC1 (FI) DSG1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="3078">
+            <data key="SUID">3366</data>
+            <data key="shared name">DSC1 (FI) DSG4</data>
+            <data key="name">DSC1 (FI) DSG4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="3174">
+            <data key="SUID">3279</data>
+            <data key="shared name">DSC1 (FI) JUP</data>
+            <data key="name">DSC1 (FI) JUP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="3019">
+            <data key="SUID">3257</data>
+            <data key="shared name">DSC1 (FI) FLG</data>
+            <data key="name">DSC1 (FI) FLG</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">8942224,8942225</data>
+        </edge>
+        <edge source="2966" target="3016">
+            <data key="SUID">3169</data>
+            <data key="shared name">DSC1 (FI) PKP2</data>
+            <data key="name">DSC1 (FI) PKP2</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="2989">
+            <data key="SUID">3168</data>
+            <data key="shared name">DSC1 (FI) PKP1</data>
+            <data key="name">DSC1 (FI) PKP1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="3012">
+            <data key="SUID">3167</data>
+            <data key="shared name">DSC1 (FI) PKP4</data>
+            <data key="name">DSC1 (FI) PKP4</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="3014">
+            <data key="SUID">3166</data>
+            <data key="shared name">DSC1 (FI) PKP3</data>
+            <data key="name">DSC1 (FI) PKP3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2966" target="2967">
+            <data key="SUID">2968</data>
+            <data key="shared name">DSC1 (FI) DSP</data>
+            <data key="name">DSC1 (FI) DSP</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814388,6814735,8848046,8942225</data>
+        </edge>
+        <edge source="2960" target="3062">
+            <data key="SUID">3424</data>
+            <data key="shared name">TCHH (FI) TGM1</data>
+            <data key="name">TCHH (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="3002">
+            <data key="SUID">4033</data>
+            <data key="shared name">LOR (FI) SPRR3</data>
+            <data key="name">LOR (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="2996">
+            <data key="SUID">3668</data>
+            <data key="shared name">LOR (FI) SPRR2F</data>
+            <data key="name">LOR (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="2998">
+            <data key="SUID">3666</data>
+            <data key="shared name">LOR (FI) SPRR2E</data>
+            <data key="name">LOR (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="2993">
+            <data key="SUID">3664</data>
+            <data key="shared name">LOR (FI) SPRR2D</data>
+            <data key="name">LOR (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="2991">
+            <data key="SUID">3656</data>
+            <data key="shared name">LOR (FI) SPRR2G</data>
+            <data key="name">LOR (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="3004">
+            <data key="SUID">3653</data>
+            <data key="shared name">LOR (FI) SPRR2B</data>
+            <data key="name">LOR (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="3010">
+            <data key="SUID">3652</data>
+            <data key="shared name">LOR (FI) SPRR2A</data>
+            <data key="name">LOR (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="2939">
+            <data key="SUID">3639</data>
+            <data key="shared name">LOR (FI) SPRR1B</data>
+            <data key="name">LOR (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="2951">
+            <data key="SUID">3628</data>
+            <data key="shared name">LOR (FI) SPRR1A</data>
+            <data key="name">LOR (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="3207">
+            <data key="SUID">3518</data>
+            <data key="shared name">LOR (FI) PI3</data>
+            <data key="name">LOR (FI) PI3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="2960">
+            <data key="SUID">3471</data>
+            <data key="shared name">LOR (FI) TCHH</data>
+            <data key="name">LOR (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="3042">
+            <data key="SUID">3426</data>
+            <data key="shared name">LOR (FI) PPL</data>
+            <data key="name">LOR (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="3062">
+            <data key="SUID">3369</data>
+            <data key="shared name">LOR (FI) TGM1</data>
+            <data key="name">LOR (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2956" target="3007">
+            <data key="SUID">3067</data>
+            <data key="shared name">LOR (FI) RPTN</data>
+            <data key="name">LOR (FI) RPTN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2955" target="3062">
+            <data key="SUID">4055</data>
+            <data key="shared name">CDSN (FI) TGM1</data>
+            <data key="name">CDSN (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3041">
+            <data key="SUID">3985</data>
+            <data key="shared name">CDSN (FI) EVPL</data>
+            <data key="name">CDSN (FI) EVPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="2938">
+            <data key="SUID">3937</data>
+            <data key="shared name">CDSN (FI) LCE3D</data>
+            <data key="name">CDSN (FI) LCE3D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2955" target="3006">
+            <data key="SUID">3877</data>
+            <data key="shared name">CDSN (FI) LCE1A</data>
+            <data key="name">CDSN (FI) LCE1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2955" target="2939">
+            <data key="SUID">3833</data>
+            <data key="shared name">CDSN (FI) SPRR1B</data>
+            <data key="name">CDSN (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="2951">
+            <data key="SUID">3832</data>
+            <data key="shared name">CDSN (FI) SPRR1A</data>
+            <data key="name">CDSN (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3007">
+            <data key="SUID">3829</data>
+            <data key="shared name">CDSN (FI) RPTN</data>
+            <data key="name">CDSN (FI) RPTN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="2991">
+            <data key="SUID">3825</data>
+            <data key="shared name">CDSN (FI) SPRR2G</data>
+            <data key="name">CDSN (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="2996">
+            <data key="SUID">3823</data>
+            <data key="shared name">CDSN (FI) SPRR2F</data>
+            <data key="name">CDSN (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="2998">
+            <data key="SUID">3821</data>
+            <data key="shared name">CDSN (FI) SPRR2E</data>
+            <data key="name">CDSN (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="2993">
+            <data key="SUID">3819</data>
+            <data key="shared name">CDSN (FI) SPRR2D</data>
+            <data key="name">CDSN (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3004">
+            <data key="SUID">3817</data>
+            <data key="shared name">CDSN (FI) SPRR2B</data>
+            <data key="name">CDSN (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3010">
+            <data key="SUID">3816</data>
+            <data key="shared name">CDSN (FI) SPRR2A</data>
+            <data key="name">CDSN (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="2960">
+            <data key="SUID">3532</data>
+            <data key="shared name">CDSN (FI) TCHH</data>
+            <data key="name">CDSN (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3269">
+            <data key="SUID">3504</data>
+            <data key="shared name">CDSN (FI) IVL</data>
+            <data key="name">CDSN (FI) IVL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3065">
+            <data key="SUID">3496</data>
+            <data key="shared name">CDSN (FI) CSTA</data>
+            <data key="name">CDSN (FI) CSTA</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3207">
+            <data key="SUID">3301</data>
+            <data key="shared name">CDSN (FI) PI3</data>
+            <data key="name">CDSN (FI) PI3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3042">
+            <data key="SUID">3165</data>
+            <data key="shared name">CDSN (FI) PPL</data>
+            <data key="name">CDSN (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="3002">
+            <data key="SUID">3003</data>
+            <data key="shared name">CDSN (FI) SPRR3</data>
+            <data key="name">CDSN (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2955" target="2956">
+            <data key="SUID">2957</data>
+            <data key="shared name">CDSN (FI) LOR</data>
+            <data key="name">CDSN (FI) LOR</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814723,6814275,8847742,6814734,6814763</data>
+        </edge>
+        <edge source="2951" target="2960">
+            <data key="SUID">3514</data>
+            <data key="shared name">SPRR1A (FI) TCHH</data>
+            <data key="name">SPRR1A (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2951" target="3062">
+            <data key="SUID">3332</data>
+            <data key="shared name">SPRR1A (FI) TGM1</data>
+            <data key="name">SPRR1A (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2939" target="2960">
+            <data key="SUID">3278</data>
+            <data key="shared name">SPRR1B (FI) TCHH</data>
+            <data key="name">SPRR1B (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2939" target="3062">
+            <data key="SUID">3195</data>
+            <data key="shared name">SPRR1B (FI) TGM1</data>
+            <data key="name">SPRR1B (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814278,6814723,6814275,6811539,8847742,6814285,6814763</data>
+        </edge>
+        <edge source="2938" target="3042">
+            <data key="SUID">4057</data>
+            <data key="shared name">LCE3D (FI) PPL</data>
+            <data key="name">LCE3D (FI) PPL</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="2956">
+            <data key="SUID">3960</data>
+            <data key="shared name">LCE3D (FI) LOR</data>
+            <data key="name">LCE3D (FI) LOR</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="3207">
+            <data key="SUID">3614</data>
+            <data key="shared name">LCE3D (FI) PI3</data>
+            <data key="name">LCE3D (FI) PI3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="3007">
+            <data key="SUID">3359</data>
+            <data key="shared name">LCE3D (FI) RPTN</data>
+            <data key="name">LCE3D (FI) RPTN</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="3002">
+            <data key="SUID">3277</data>
+            <data key="shared name">LCE3D (FI) SPRR3</data>
+            <data key="name">LCE3D (FI) SPRR3</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="3062">
+            <data key="SUID">3063</data>
+            <data key="shared name">LCE3D (FI) TGM1</data>
+            <data key="name">LCE3D (FI) TGM1</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="3010">
+            <data key="SUID">3011</data>
+            <data key="shared name">LCE3D (FI) SPRR2A</data>
+            <data key="name">LCE3D (FI) SPRR2A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="3004">
+            <data key="SUID">3005</data>
+            <data key="shared name">LCE3D (FI) SPRR2B</data>
+            <data key="name">LCE3D (FI) SPRR2B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="2998">
+            <data key="SUID">2999</data>
+            <data key="shared name">LCE3D (FI) SPRR2E</data>
+            <data key="name">LCE3D (FI) SPRR2E</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="2996">
+            <data key="SUID">2997</data>
+            <data key="shared name">LCE3D (FI) SPRR2F</data>
+            <data key="name">LCE3D (FI) SPRR2F</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="2993">
+            <data key="SUID">2994</data>
+            <data key="shared name">LCE3D (FI) SPRR2D</data>
+            <data key="name">LCE3D (FI) SPRR2D</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="2991">
+            <data key="SUID">2992</data>
+            <data key="shared name">LCE3D (FI) SPRR2G</data>
+            <data key="name">LCE3D (FI) SPRR2G</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="2960">
+            <data key="SUID">2961</data>
+            <data key="shared name">LCE3D (FI) TCHH</data>
+            <data key="name">LCE3D (FI) TCHH</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="2951">
+            <data key="SUID">2952</data>
+            <data key="shared name">LCE3D (FI) SPRR1A</data>
+            <data key="name">LCE3D (FI) SPRR1A</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+        <edge source="2938" target="2939">
+            <data key="SUID">2940</data>
+            <data key="shared name">LCE3D (FI) SPRR1B</data>
+            <data key="name">LCE3D (FI) SPRR1B</data>
+            <data key="selected">false</data>
+            <data key="EDGE_TYPE">FI</data>
+            <data key="FI Annotation">complex; input</data>
+            <data key="FI Direction">-</data>
+            <data key="SourceIds">6814275,8847742,6814763,6814298</data>
+        </edge>
+    </graph>
+</graphml>
