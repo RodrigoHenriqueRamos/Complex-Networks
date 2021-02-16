@@ -14,12 +14,10 @@ Jupyter Notebooks covering Complex Networks: Fundamentals, Measures, Simulation,
   
   <li>"Helper" prefix: Generic functions to work with networks, mainly focused on visualization and clarification of subjects.</li>
     <ol>
-        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Helper%20-%20NetworkX%20Layout%20Part1%20-%20Layouts%2C%20Vertex%20Label%20and%20Font-Size.ipynb"></a>Helper - NetworkX Layout Part1 - Layouts, Vertex Label and Font-Size</li>
-        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Helper%20-%20NetworkX%20Layout%20Part2%20-%20Edges%20Labels%2C%20DiGraphs%20and%20Parallels%20Edges.ipynb"></a>Helper - NetworkX Layout Part2 - Edges Labels, DiGraphs and Parallels Edges</li>
-        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Helper%20-%20NetworkX%20Layout%20Part3%20-%20Fixed%20Color%2C%20Dynamic%20Size%20and%20Color%2C%20Shapes%20.ipynb"></a>Helper - NetworkX Layout Part3 - Fixed Color, Dynamic Size and Color, Shapes</li>
-        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Helper%20-%20Plotting%20Distribution(Linear%2C%20LogLog%2C%20Prob.%2C%20ProbCum)%20%20and%20Consideration%20for%20Values%20%5B0..1%5D.ipynb">Helper - Plotting Distribution(Linear, LogLog, Prob., ProbCum)  and Consideration for Values [0..1]</a></li>
-        
-  
+        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Helper%20-%20NetworkX%20Layout%20Part1%20-%20Layouts%2C%20Vertex%20Label%20and%20Font-Size.ipynb">Helper - NetworkX Layout Part1 - Layouts, Vertex Label and Font-Size</a></li>
+        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Helper%20-%20NetworkX%20Layout%20Part2%20-%20Edges%20Labels%2C%20DiGraphs%20and%20Parallels%20Edges.ipynb">Helper - NetworkX Layout Part2 - Edges Labels, DiGraphs and Parallels Edges</a></li>
+        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Helper%20-%20NetworkX%20Layout%20Part3%20-%20Fixed%20Color%2C%20Dynamic%20Size%20and%20Color%2C%20Shapes%20.ipynb">Helper - NetworkX Layout Part3 - Fixed Color, Dynamic Size and Color, Shapes</a></li>
+        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Helper%20-%20Plotting%20Distribution(Linear%2C%20LogLog%2C%20Prob.%2C%20ProbCum)%20%20and%20Consideration%20for%20Values%20%5B0..1%5D.ipynb">Helper - Plotting Distribution(Linear, LogLog, Prob., ProbCum)  and Consideration for Values [0..1]</a></li> 
     </ol>
   <br>
   
