@@ -33,7 +33,7 @@ Jupyter Notebooks covering Complex Networks: Fundamentals, Measures, Simulation,
     <ol>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%202%20-%20Bipartite%20and%20Projections.ipynb">Network Science Book - Chap 2 - Bipartite and Projections</a></li>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%204%20-%20Scale%20Free%20Characterization%2C%20PowerLaw%20Lib.ipynb">Network Science Book - Chap 4 - Scale Free Characterization, PowerLaw Lib</a></li>
-        <li><a href="">Network Science Book - Chap 4 - Analysis Similar to Table 4.1 with networks from the book</a></li>
+        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%204%20-%20Analysis%20Similar%20to%20Table%204.1%20with%20networks%20from%20the%20book.ipynb">Network Science Book - Chap 4 - Analysis Similar to Table 4.1 with networks from the book</a></li>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%205%20-%20Random%20Network%20VS%20Scale%20Free%20Network%20With%20Local%20Mechanisms.ipynb">Network Science Book - Chap 5 - Random Network VS Scale Free Network With Local Mechanisms</a></li>
     </ol>    
   <br>
