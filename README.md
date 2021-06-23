@@ -27,8 +27,8 @@ Jupyter Notebooks covering Complex Networks: Fundamentals, Measures, Simulation,
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Measures%20-%20Centrality%20Part2%20-%20Visual%20Representation%20(4%20measures).ipynb">Measures - Centrality Part2 - Visual Representation (4 measures)</a></li>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Measures%20-%20Centrality%20Part3%20-%2015%20measures%20in%20same%20network%20and%20Correlation%20Matrix.ipynb">Measures - Centrality Part3 - 15 measures in same network and Correlation Matrix</a></li>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Measures%20-%20Centrality-%20Star%20Centrality.ipynb">Measures - Star Centrality</a></li>
-        
     </ol>
+  </li>
   <br>
   
   <li>"Network Science Book" prefix : Implementation of some models and/or measures presented in the book Network Science from Barabasi</li>
