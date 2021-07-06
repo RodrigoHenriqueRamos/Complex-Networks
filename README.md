@@ -41,6 +41,8 @@ Jupyter Notebooks covering Complex Networks: Fundamentals, Measures, Simulation,
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%205%20-%20Degree%20Exponent%20in%20Different%20Barabasi-Albert%20Model%20Networks.ipynb">Network Science Book - Chap 5 - Degree Exponent in Different Barabasi-Albert Model Networks</a></li>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%207%20-%20Degree%20Correlation.ipynb">Network Science Book - Chap 7 - Degree Correlation</a></li>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%207%20-%20Tuning%20Degree%20Correlations.ipynb">Network Science Book - Chap 7 - Tuning Degree Correlations </a></li>
+        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%208%20-%20Robustness%20of%20Networks.ipynb">Network Science Book - Chap 8 - Robustness of Networks</a></li>
+  
     </ol>    
   <br>
  
