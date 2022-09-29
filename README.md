@@ -43,8 +43,12 @@ Jupyter Notebooks covering Complex Networks: Fundamentals, Measures, Simulation,
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%207%20-%20Degree%20Correlation.ipynb">Network Science Book - Chap 7 - Degree Correlation</a></li>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%207%20-%20Tuning%20Degree%20Correlations.ipynb">Network Science Book - Chap 7 - Tuning Degree Correlations </a></li>
         <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Network%20Science%20Book%20-%20Chap%208%20-%20Robustness%20of%20Networks.ipynb">Network Science Book - Chap 8 - Robustness of Networks</a></li>
-  
-       
   <br>
- 
+  <li>"Multilayer" prefix: Visualization of 3D networks and Multilayer networks. Unfortunately, GitHub can not render the plot. It is necessary to download and run the notebooks to see the plots.</li>
+    <ol>
+        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Multilayer%20Network%20-%20Visualization%200.ipynb">Multilayer Network - Visualization 0 - Plotting 3D networks</a></li>
+        <li><a href="https://github.com/RodrigoHenriqueRamos/Complex-Networks/blob/main/Multilayer%20Network%20-%20Visualization%201.ipynb">Multilayer Network - Visualization 1 - Plotting a 'stack of networks'</a></li>
+    </ol>
+  </li>
+  <br>
 </ol>
