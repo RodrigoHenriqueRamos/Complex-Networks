@@ -1,6 +1,6 @@
 # Complex-Networks
 Jupyter Notebooks covering Complex Networks: Fundamentals, Measures, Simulation, and Visualization.
-### The notebooks in this repository area broadly separated into 4 categories:
+### The notebooks in this repository area broadly separated into 5 categories:
 <ol>
   <li>"GraphTheory" prefix: Are in portuguese (pt-BR) and show fundamentals principles necessary to work with Complex Networks</li>
     <ol>
